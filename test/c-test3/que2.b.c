@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main()
+
 {
     int size,n,number,flag = 0,index = 0,i=0;
     printf("Enter the size of the array : \n");
